@@ -1,0 +1,5 @@
+{
+  "name": "Perangkat Lunak Desain Generatif",
+  "description": "Sebuah aplikasi web yang memungkinkan desainer memasukkan parameter seperti material, batasan biaya, dan kekuatan yang diinginkan. AI kemudian akan menghasilkan ratusan opsi desain produk yang optimal dan efisien dari segi bahan.",
+  "requestFramePermissions": []
+}
